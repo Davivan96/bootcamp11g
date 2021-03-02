@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+.container div {
+  background-color: lightskyblue;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  padding: 15px;
+}
+
+.container div:nth-child(2) {
+  background-color: sandybrown;
+}
+
+.container {
+  border: 5px solid;
+  margin: 40px;
+}
